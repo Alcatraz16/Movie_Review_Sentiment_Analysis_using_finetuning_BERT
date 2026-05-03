@@ -53,7 +53,7 @@ The model structure stored in directory
 
 <p align="center">
   <img src="images\Screenshot 2026-04-23 194143.png" width="600"/><br>
-  <em>Model predicting Positive sentiment</em>
+  <em>Model predicting sentiment</em>
 </p>
 
 ---
